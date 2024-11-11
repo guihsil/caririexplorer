@@ -497,7 +497,7 @@ Caso tenha entrado em alguma opção errada, você pode digitar o comando \n/rei
 
 if __name__ == "__main__":
     os.system('cls')
-    token = '6412842691:AAFT6yXT4ivibQPoeQZ8pYD2yZ0XW3iwBvk'
+    token = ''
     main(token)
 
 
